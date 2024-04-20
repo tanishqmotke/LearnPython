@@ -40,6 +40,7 @@ print("--------------------")
 def NameofFruits(listofFruits):
     for x in fruits:
         print(x)
+         
 
 fruits=["Apple","Banana","Orange"]
 NameofFruits(fruits)

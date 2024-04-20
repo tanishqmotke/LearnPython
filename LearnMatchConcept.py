@@ -1,6 +1,5 @@
 
 User = str(input("Enter the name:"))
-
 match User:
     case "Om":
         print("You dont have the access Om")
