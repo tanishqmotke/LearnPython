@@ -22,7 +22,6 @@
 # print(number) if number >= 10 else print("number is less than 10")
 
 # print(number) if number >=10 else print("Number is small") if number==2 else ("Number is not equal")
-
 a = 200
 b = 330
 c = 500
