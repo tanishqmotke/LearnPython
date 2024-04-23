@@ -3,13 +3,13 @@ print(fruits)
 print(len(fruits))
 print(type(fruits))
 
-thisList = list(("tanishq","motke"))
+thisList = list( ("tanishq","motke"))
 print(thisList)
 print(thisList[:1])
 
 Lst = [ i*i for i in range(10) if i%2==0] 
 print(Lst)
-
+  
 #append
 Numbers = [1,2,3,4,5]
 Numbers.append(6)
