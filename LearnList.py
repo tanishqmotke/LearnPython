@@ -11,6 +11,7 @@ Lst = [ i*i for i in range(10) if i%2==0]
 print(Lst)
   
 #append
+
 Numbers = [1,2,3,4,5]
 Numbers.append(6)
 print(Numbers)
@@ -22,6 +23,7 @@ Numbers.sort()
 print(Numbers)
 
 #index
+
 Number = [1,2,3,1]
 print(Number.index(1))
 print(Number.count(1))
