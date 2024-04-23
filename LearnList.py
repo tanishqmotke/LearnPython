@@ -37,14 +37,17 @@ Rainbow =['yellow']
 colors.extend(Rainbow)
 print(colors)
 
+#remove
 thislist = ["apple", "banana", "cherry"]
 thislist.remove("banana")
 print(thislist)
 
+#pop()
 thislist = ["apple", "banana", "cherry"]
 thislist.pop(1)
 print(thislist)
 
+#pop
 thislist = ["apple", "banana", "cherry"]
 thislist.pop()
 print(thislist)
